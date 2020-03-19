@@ -27,6 +27,4 @@ function readOne(){
     $this->filetype = $row['filetype'];
 
 }};
-
-
 ?>
